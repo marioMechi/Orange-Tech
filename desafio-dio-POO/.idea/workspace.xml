@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a74d072-0c73-4be3-b3ee-b5ae696fba75" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../tipos-variaveis/tipos-variaveis/src/TiposVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tipos-variaveis/tipos-variaveis/src/TiposVariaveis.java" afterDir="false" />
-    </list>
+    <list default="true" id="9a74d072-0c73-4be3-b3ee-b5ae696fba75" name="Changes" comment="Desafio dio POO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +37,29 @@
       <option name="presentableId" value="Default" />
       <updated>1675293617321</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desafio dio POO">
+      <created>1675370937222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675370937222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio dio POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio dio POO" />
   </component>
 </project>
