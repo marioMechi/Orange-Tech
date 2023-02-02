@@ -1,0 +1,11 @@
+{
+    "type":"java",
+    "request": "launch",
+    "mainClass":"AboutMe",
+    "args":[
+        "João",
+        "Silva",
+        "28",
+        "1.58"
+    ]
+}
