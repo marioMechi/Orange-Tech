@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/Mário Vitor Mechi/Documents/Bootcamp Orange Tech/Gerenciamento de Dependências e Build em Java com Maven/project-parent/controller/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Mário Vitor Mechi/Documents/Bootcamp Orange Tech/Gerenciamento de Dependências e Build em Java com Maven/project-parent/controller/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'controller 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/Mário Vitor Mechi/Documents/Bootcamp Orange Tech/Gerenciamento de Dependências e Build em Java com Maven/project-parent/controller/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'controller 1.0-SNAPSHOT API'
+one.digital.innovation
+'C:/Users/Mário Vitor Mechi/Documents/Bootcamp Orange Tech/Gerenciamento de Dependências e Build em Java com Maven/project-parent/controller/src/main/java/one/digital/innovation/App.java'
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\src\main\java = 1676076985078
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\allclasses-index.html = 1676078324366
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\allclasses.html = 1676078324383
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\allpackages-index.html = 1676078324369
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\constant-values.html = 1676078324314
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\deprecated-list.html = 1676078324381
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\element-list = 1676078324294
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\help-doc.html = 1676078324390
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\index-all.html = 1676078324361
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\index.html = 1676078324386
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\member-search-index.js = 1676078324358
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\member-search-index.zip = 1676078324359
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\overview-tree.html = 1676078324331
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\package-search-index.js = 1676078324338
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\package-search-index.zip = 1676078324354
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\script.js = 1676078324397
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\search.js = 1676078324399
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\stylesheet.css = 1676078324393
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\type-search-index.js = 1676078324355
+C:\Users\Mário Vitor Mechi\Documents\Bootcamp Orange Tech\Gerenciamento de Dependências e Build em Java com Maven\project-parent\controller\target\site\apidocs\type-search-index.zip = 1676078324356
